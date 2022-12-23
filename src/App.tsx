@@ -1,5 +1,7 @@
+import ScreenContainer from 'page/ScreenContainer';
+
 function App() {
-  return <p>hello, alibi</p>;
+  return <ScreenContainer />;
 }
 
 export default App;
